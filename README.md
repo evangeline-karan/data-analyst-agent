@@ -32,4 +32,4 @@ python -m streamlit run app.py
 ```
 
 ## Screenshot
-ADD_A_SCREENSHOT_HERE
+<img width="1907" height="941" alt="image" src="https://github.com/user-attachments/assets/1b34589a-7222-4944-9a0f-a95b76e6764c" />
